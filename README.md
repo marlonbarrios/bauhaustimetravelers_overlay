@@ -1,6 +1,6 @@
 # Bauhaus Time Traveler | Duet in Latent Space
 
-![Bauhaus Time Traveler](public/bauhaus.png "Bauhaus Time Traveler Interface")
+![Bauhaus Time Traveler](public/bauhaus1.png "Bauhaus Time Traveler Interface")
 
 ## About the Project
 
