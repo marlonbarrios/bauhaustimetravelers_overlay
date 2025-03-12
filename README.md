@@ -11,7 +11,7 @@
 This project is part of the larger [Duets in Latent Space](https://github.com/marlonbarrios/duets-in-latent-space) series, exploring real-time collaborations between performers and AI.
 
 
- <img src="public/bauhaus2.png" alt="Bauhaus Time Traveler Performance" >
+
 
 
 ## Live Demo
