@@ -1,7 +1,7 @@
 # Bauhaus Time Traveler | Duet in Latent Space
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="public/bauhaus.png" alt="Bauhaus Time Traveler Interface" width="48%">
+  <img src="public/bauhaus1.png" alt="Bauhaus Time Traveler Interface" width="48%">
   <img src="public/bauhaus2.png" alt="Bauhaus Time Traveler Performance" width="48%">
 </div>
 
