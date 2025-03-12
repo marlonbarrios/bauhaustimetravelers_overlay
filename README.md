@@ -1,8 +1,7 @@
 # Bauhaus Time Traveler | Duet in Latent Space
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="public/bauhaus1.png" alt="Bauhaus Time Traveler Interface" width="48%">
-  <img src="public/bauhaus2.png" alt="Bauhaus Time Traveler Performance" width="48%">
+  <img src="public/bauhaus1.png" alt="Bauhaus Time Traveler Interface">
 </div>
 
 ## About the Project
@@ -10,7 +9,7 @@
 **Bauhaus Time Traveler | Duet in Latent Space** is an interactive web application that creates real-time AI-generated imagery from webcam input, guided by text prompts and accompanied by a custom soundtrack. Developed by Marlon Barrios Solano during an art and research residency at Lake Studios Berlin (February 2024).
 
 This project is part of the larger [Duets in Latent Space](https://github.com/marlonbarrios/duets-in-latent-space) series, exploring real-time collaborations between performers and AI.
-
+ <img src="public/bauhaus2.png" alt="Bauhaus Time Traveler Performance" >
 ## Live Demo
 
 The project is currently live at: [https://bauhaustimetravelers-overlay.vercel.app/](https://bauhaustimetravelers-overlay.vercel.app/)
